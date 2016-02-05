@@ -12,16 +12,7 @@ Qv.AddExtension("materialIcons",
 		 var size=this.Layout.Text1.text ? this.Layout.Text1.text : '24';
 		 var color=this.Layout.Text2.text ? this.Layout.Text2.text : '#bbbbbb';
 		 var Text=this.Layout.Text3.text ? this.Layout.Text3.text : ' ';
-		 if (size>40)
-		 {
-			var fontSize=size-20;
-		 }else	 if (size>30)		 
-		 {
-			var fontSize=size-16;
-		 }else
-		 {
-			var fontSize=size-12;
-		 }
+		  var fontSize=this.Layout.Text4.text ? this.Layout.Text4.text : '24';
 		 var html="";
 		 $(_this.Element).empty();
 		 RenderExtension();

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ExtensionObject  Path="materialIcons" 
+                  Label="materialIcons" 
+                  Description="Material Icons integrates Material Icons and Qlikview" 
+                  Type="object">
+<Text Label="Icon Code" Type="text" Initial="" Expression=""/>
+<Text Label="Size" Type="text" Initial="" Expression=""/>
+<Text Label="Color Code" Type="text" Initial="" Expression=""/>
+
+<Text Label="Text" Type="text" Initial="" Expression=""/>
+
+<Initiate Name="Layout.Border.Use" Value="0" />
+</ExtensionObject>

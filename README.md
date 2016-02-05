@@ -1,6 +1,7 @@
 
 # materialIconsQlik
 ####Material Icons made easy and flexible
+![Main](/images/Main.PNG)
 
 The Material Icons for Qlikview gives you the ability to present Googles material design icons inside of your Qlikview projects. You can use any icon that you find https://design.google.com/icons/
 
@@ -17,10 +18,14 @@ Material Icons for Qlikview offers the ability to change:
 
 ![template](/images/template.PNG)
 
+
+
 ##Icons
 To pick an icon go to the website https://design.google.com/icons/ . Select an icon you want and click <>icon font on the right side. Copy the code for the icon and paste it into the textbox for Icon in Qlikview.
 
 ![howto](/images/howto.PNG)
+
+
 
 ##Sizes
 The Material Icons are all presented in pixels. You can type in any value you want. You can change both the font-size for the Icon as well as the font-size for the text.
@@ -28,10 +33,13 @@ The Material Icons are all presented in pixels. You can type in any value you wa
 ![SmallMediumLargeIcons](/images/smallMediumLarge.PNG)
 
 
+
 ##Colors
 You can change the color of the icons by providing a hex code in the settings. This will only change the icons color, not the font next to it.
 
 ![iconColors](/images/colors.PNG)
+
+
 
 ##Setup
 

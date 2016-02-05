@@ -21,7 +21,7 @@ Material Icons for Qlikview offers the ability to change:
 ##Sizes
 The Material Icons are all presented in pixels. You can type in any value you want. You can change both the font-size for the Icon as well as the font-size for the text.
 
-![SmallMediumLargeToggles](/images/smallMediumLarge.gif)
+![SmallMediumLargeIcons](/images/smallMediumLarge.PNG)
 
 
 ##Colors

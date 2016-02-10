@@ -1,12 +1,9 @@
+
+var template_path = Qva.Remote + "?public=only&name=Extensions/materialIcons/";
+Qva.LoadCSS(template_path + "materialIcons.css");
+Qva.LoadCSS('https://fonts.googleapis.com/icon?family=Material+Icons');
 Qv.AddExtension("materialIcons",
         function () {
-		
-		 //Css call for loading via accesspoint
-		 //Qva.LoadCSS(Qva.Remote + (Qva.Remote.indexOf('?') >= 0 ? '&' : '?') + 'public=only' + '&name=Extensions/materialIcons/materialIcons.css');
-		 
-		 //Local CSS load
-		 Qva.LoadCSS('https://fonts.googleapis.com/icon?family=Material+Icons');
-		  Qva.LoadCSS('Extensions/materialIcons/materialIcons.css');
 		 var _this = this;
 		 var icon=this.Layout.Text0.text ? this.Layout.Text0.text : '&#xE859;';
 		 var size=this.Layout.Text1.text ? this.Layout.Text1.text : '24';

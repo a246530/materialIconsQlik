@@ -14,7 +14,8 @@ Material Icons for Qlikview offers the ability to change:
 2. The size of icon
 3. The color of the icon
 4. Text you want next to it (not required)
-5. The font size
+5. Only display text on hover checkbox (set by default)
+6. The font size
 
 ![template](/images/template.PNG)
 
